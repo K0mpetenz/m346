@@ -13,3 +13,13 @@
 * Vorteile sind Kosteneffizienz, Flexibilität und schnelle Skalierbarkeit.
 
 **Die Public Cloud stellt IT-Ressourcen über das Internet bereit und ermöglicht flexible, kosteneffiziente Skalierung.**
+
+# Hybrid Cloud
+
+* Hybrid Cloud kombiniert Private und Public Cloud zu einer integrierten Lösung.
+* Unternehmen können sensible Daten in der Private Cloud sichern, während skalierbare Ressourcen aus der Public Cloud genutzt werden.
+* Vorteile sind Flexibilität, Skalierbarkeit und ein optimiertes Kosten-Nutzen-Verhältnis.
+
+**Die Hybrid Cloud verbindet Private und Public Cloud, um Sicherheit, Flexibilität und Kostenoptimierung zu vereinen.**
+
+![vs](./pictures/p3.png)
